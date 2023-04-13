@@ -4,7 +4,9 @@ This project was the final project for my Large-Scale Machine Learning class.
 
 My professor was interested in tracking the gas usage of his apartment complex. He set up a camera to take photos every fifteen seconds of his gas meter. The goal of this project was to create a model that could read the digits of this gas meter from the photos.
 
-Here is a sample photo
+Here is a sample digit
+
+![](https://i.imgur.com/FhZYBqO.png)
 
 The project was split into three components:
 1. A convolutional network trained on complete digits
