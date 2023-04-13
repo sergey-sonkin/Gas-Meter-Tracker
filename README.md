@@ -13,7 +13,7 @@ The project was split into three components:
 2. A convolutional network trained on isolated digits
 3. A convolutional network trained on perturbed digits
 
-I have attached my final submission. While it does not completely reflect the dozens of hours I poured into experimentation, it does outline some of my thought process and showcase my comfort with several types of neural networks.
+I have attached my final submission. While it does not completely reflect the many hours I poured into experimentation, it does outline some of my thought process and showcase my comfort with several types of neural networks.
 
 Additionally, the entire course was taught in PyTorch. For this project I chose to learn Keras (a TensorFlow interface) entirely on my own because I was interested in how the interface could lead to much faster development and iteration and in turn higher quality models. 
 
