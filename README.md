@@ -9,9 +9,9 @@ Here is what the readings looked like
 ![](https://i.imgur.com/FhZYBqO.png)
 
 The project was split into three components:
-1. A convolutional network trained on complete digits
-2. A convolutional network trained on isolated digits
-3. A convolutional network trained on perturbed digits
+1. Training on complete digits
+2. Training on isolated digits
+3. Training on perturbed digits
 
 I have attached my final submission. While it does not completely reflect the many hours I poured into experimentation (most notably the RNN models I developed), it does outline some of my thought process and showcase my comfort with several types of neural networks.
 
